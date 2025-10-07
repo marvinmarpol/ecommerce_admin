@@ -63,10 +63,10 @@ group :test do
 end
 
 
-gem 'activeadmin'
-gem 'devise'
-gem 'cancancan'
-gem 'draper'
-gem 'pundit'
+gem "activeadmin"
+gem "devise"
+gem "cancancan"
+gem "draper"
+gem "pundit"
 gem "sprockets-rails"
 gem "sassc-rails"
